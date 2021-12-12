@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main() {
     int a, shift, result, min, max;
@@ -23,11 +23,11 @@ int main() {
     }
     
     return 0;
-}
+}*/
 
 
 
-/*
+
 #include <stdio.h>
 
 int main() {
@@ -45,7 +45,7 @@ int main() {
     }
     return 0;
 }
-*/
+
 
 
 
