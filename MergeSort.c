@@ -1,17 +1,17 @@
 
 void mergeSort(int* array, int lo, int hi) {
-	int mid = (lo + hi) / 2;
+	int center = (lo + hi) / 2;
 
-	if ( lo < mid ) {
-		mergeSort(array, lo, mid);
-		mergeSort(array, mid, hi);
+	if ( lo < center ) {
+		mergeSort(array, lo, center);
+		mergeSort(array, center, hi);
 	}
 
-	merge(array, lo, mid, hi);
+	merge(array, lo, center, hi);
 }
 
-int main() {
+int main(int argc, char const *argv[]) {
 	/* code */
-	printf("Hello World\n");
+	printf("EPIC WIN\n");
 	return 0;
 }
