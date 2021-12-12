@@ -9,3 +9,9 @@ void mergeSort(int* array, int lo, int hi) {
 
 	merge(array, lo, mid, hi);
 }
+
+int main() {
+	/* code */
+	printf("Hello World\n");
+	return 0;
+}
