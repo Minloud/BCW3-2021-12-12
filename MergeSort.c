@@ -13,5 +13,7 @@ void mergeSort(int* array, int lo, int hi) {
 int main(int argc, char const *argv[]) {
 	/* code */
 	printf("EPIC WIN\n");
+    printf("EPIC WIN\n");
+    printf("EPIC WIN\n");
 	return 0;
 }
